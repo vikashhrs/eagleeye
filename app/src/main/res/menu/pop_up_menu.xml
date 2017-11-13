@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/startJourney"
+        android:title="Start A Journey"
+        app:showAsAction="never"/>
+
+    <item
+        android:id="@+id/listOfDevices"
+        android:title="Device List"
+        app:showAsAction="never"/>
+
+    <item
+        android:id="@+id/aboutApp"
+        android:title="About App"
+        app:showAsAction="never"/>
+
+
+
+    <item
+        android:id="@+id/mapType"
+        android:title="Change Map Type"
+        app:showAsAction="never">
+        <menu>
+            <item
+                android:id="@+id/satelliete"
+                android:title="Sattelite"
+                app:showAsAction="never"/>
+
+            <item
+                android:id="@+id/terrain"
+                android:title="Terrain"
+                app:showAsAction="never"/>
+        </menu>
+    </item>
+</menu>

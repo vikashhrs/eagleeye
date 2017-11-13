@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "982177269962",
+    "firebase_url": "https://eagleeye-23a83.firebaseio.com",
+    "project_id": "eagleeye-23a83",
+    "storage_bucket": "eagleeye-23a83.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:982177269962:android:bec0c8f435f949e2",
+        "android_client_info": {
+          "package_name": "com.example.vikashkumarsharma.eagleeye"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "982177269962-0luhn2c8ier20jijd9b8cfh0f9km56p1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.vikashkumarsharma.eagleeye",
+            "certificate_hash": "6dacfd33368c323b4262ddc530492dc1242cb59f"
+          }
+        },
+        {
+          "client_id": "982177269962-u7ng5tgml00gls3u4mbkeo5fo77580st.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-QWucl_mUlgdcs74n3LESriYL3G889LI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "982177269962-u7ng5tgml00gls3u4mbkeo5fo77580st.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
